@@ -40,5 +40,5 @@ Contact me if you have any questions. jmroith@stkate.edu
 
 
 ### Have fun with RStudio!!
-!(kermit_statistics.gif)
+![](kermit_statistics.gif)
 
