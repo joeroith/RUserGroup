@@ -11,24 +11,24 @@ We typically use RStudio to write and execute code since it is nicer looking. Bu
 [Download RStudio](https://www.rstudio.com/)
 
 
-> If you would like more help and instructions to download both programs [read this](RStudio_Help/docs/R_download_data_importing.pdf).
+> If you would like more help and instructions to download both programs [read this](R_download_data_importing.pdf).
 
 ## RStudio in Stat 1090
 
 These are some of the documents I have used in my Intro Stats classes. I expect my students to be able to perform this analysis in StatCrunch through MyStatLab, but not in RStudio. I give them an introduction to statistical coding and give them some basic tools. You may still see students ask about these techniques.
 
-1. [Basic R Code](RStudio_Help/docs/BasicRcode.pdf)
-2. [Using R with the Normal Distribution](RStudio_Help/docs/Rnormal.pdf)
-3. [Survey Data](RStudio_Help/docs/responses.csv)
+1. [Basic R Code](BasicRcode.pdf)
+2. [Using R with the Normal Distribution](Rnormal.pdf)
+3. [Survey Data](responses.csv)
 
 ## Tutorials
 
 These are some tutorials that I have created for my more advanced classes. Feel free to look them over if you would like more technical information about R and RStudio.
 
-1. [Introduction to R](RStudio_Help/docs/IntroR1.pdf)
-2. [Tutorial 1](RStudio_Help/docs/RTutorial_1.pdf)
-3. [Tutorial 2](RStudio_Help/docs/RTutorial_2.pdf)
-4. [Tutorial 3](RStudio_Help/docs/RTutorial_3.pdf)
+1. [Introduction to R](IntroR1.pdf)
+2. [Tutorial 1](RTutorial_1.pdf)
+3. [Tutorial 2](RTutorial_2.pdf)
+4. [Tutorial 3](RTutorial_3.pdf)
 
 ## More Tutorials and Help
 
