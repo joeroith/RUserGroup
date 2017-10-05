@@ -4,9 +4,13 @@ Congratulations! You have decided to use the world’s most popular statistical 
 
 ## Installing R and RStudio.
 
-   1. [Notes](Ch1_IS4e.pdf)
+We typically use RStudio to write and execute code since it is nicer looking. But you need to first download R in order for everything to work smoothly.
 
-This page contains links and other student-facing information for StatPREP activities.
+[Download R](https://www.r-project.org/)
+
+[Download RStudio](https://www.rstudio.com/)
+
+
 
 > If you are a student looking for the web page for your own instructor's web site, you're not there. Check with your instructor to make sure that you have the right URL for your instructor's web site.
 
