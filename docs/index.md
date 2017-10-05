@@ -34,6 +34,7 @@ These are some tutorials that I have created for my more advanced classes. Feel 
 
 I highly reccomend trying the [Swirl](http://swirlstats.com/) tutorial in RStudio to get hands-on practice.
 Also, consider Googling "How to _________ in R". There are tons of resources online with examples of code.
+
 Contact me if you have any questions. jmroith@stkate.edu
 
 
