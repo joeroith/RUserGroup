@@ -11,7 +11,7 @@ We typically use RStudio to write and execute code since it is nicer looking. Bu
 [Download RStudio](https://www.rstudio.com/)
 
 
-> If you would like more help and instructions to download both programs [read this](RStudio_Help/docs/R_download_data_importing.pdf)
+> If you would like more help and instructions to download both programs [read this](RStudio_Help/docs/R_download_data_importing.pdf).
 
 ## RStudio in Stat 1090
 
