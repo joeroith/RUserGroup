@@ -20,6 +20,7 @@ These are some of the documents I have used in my Intro Stats classes. I expect 
 1. [Basic R Code](BasicRcode.pdf)
 2. [Using R with the Normal Distribution](Rnormal.pdf)
 3. [Survey Data](responses.csv)
+4. [Survey Responses in RStudio](RStudio_Help/docs/SurveyResponses.RData)
 
 ## Tutorials
 
