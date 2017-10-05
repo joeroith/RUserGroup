@@ -1,10 +1,9 @@
-# Stat 1090: Statistical Analysis
+# Get help with using RStudio
 
-Welcome to Stat 1090! This is the main site for our course. All homework assignments and access to StatCrunch can be found on the [MyStatLab site](https://portal.mypearson.com/login). This page will contain course information, lecture notes, content reviews, and fun stats related items. Be sure to check this site often for updates about our class.
+Congratulations! You have decided to use the world’s most popular statistical analysis software, R! R is a free software and a very powerful tool. It can be used simply as a calculator or to analyze data sets with billions of observations. Here you will find information about getting started with R and the fancy user interface RStudio. Check out the files, tutorials, and links below to help you out.
 
-## Lecture Notes.
+## Installing R and RStudio.
 
-### Chapter 1.
    1. [Notes](Ch1_IS4e.pdf)
 
 This page contains links and other student-facing information for StatPREP activities.
