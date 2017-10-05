@@ -12,7 +12,7 @@ We typically use RStudio to write and execute code since it is nicer looking. Bu
 
 
 
-> If you are a student looking for the web page for your own instructor's web site, you're not there. Check with your instructor to make sure that you have the right URL for your instructor's web site.
+> If you would like more help and instructions to download both programs [read this]()
 
 ## Tutorials
 
