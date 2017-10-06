@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>HELP! RStudio</title>
+</head>
+
+</html>
 # Get help with RStudio
 
 Congratulations! You have decided to use the world’s most popular statistical analysis software, R! R is a free software and a very powerful tool. It can be used simply as a calculator or to analyze data sets with billions of observations. Here you will find information about getting started with R and the fancy user interface RStudio. Check out the files, tutorials, and links below to help you out.
