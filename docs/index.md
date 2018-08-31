@@ -15,7 +15,7 @@ If you are new to R, here are some links to get started.
 [Download RStudio](https://www.rstudio.com/). This is a software that lets you use R in a much cleaner, more user friendly environment.
 
 
->> If you would like more help and instructions to download both programs [read this](R_download_data_importing.pdf).
+ If you would like more help and instructions to download both programs [read this](R_download_data_importing.pdf).
 
 ## Learning How to Code in R
 
@@ -46,7 +46,7 @@ Dont forget, R has its own help documentation in the software. It is not the eas
 
 ## Cheat Sheats
 There are plenty of summary sheets available online for coding in R. It is not expected that you memorize *ALL* of the specific syntax rules. 
-> Note: Some of these cheat sheets use additional packages that need to be downloaded and installed.
+ Note: Some of these cheat sheets use additional packages that need to be downloaded and installed.
 
 1. [Basic R Code](BasicRcode.pdf)
 2. [RStudio Environment Guide](rstudio-ide.pdf)
