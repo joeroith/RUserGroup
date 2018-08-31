@@ -54,6 +54,9 @@ There are plenty of summary sheets available online for coding in R. It is not e
 8. [R Markdown Reference](rmarkdown-reference.pdf)
 9. [R Markdown Cheat Sheet](rmarkdown-cheatsheet.pdf)
 
+## New Software to use with R
+The University of Auckland in New Zealand (birthplace of R) has a new program that allows users more of a "point and click" experience with R. It is called **iNZight** and you can download it for free [here](https://www.stat.auckland.ac.nz/~wild/iNZight/install/). It is worth checking out if you have some time to play around.
+
 Contact me if you have any questions. jmroith@stkate.edu
 
 ### Have fun with R/RStudio!!
