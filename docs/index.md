@@ -14,7 +14,7 @@ If you are new to R, here are some links to get started.
 [Download RStudio](https://www.rstudio.com/). This is a software that lets you use R in a much cleaner, more user friendly environment.
 
 
-> If you would like more help and instructions to download both programs [read this](R_download_data_importing.pdf).
+>> If you would like more help and instructions to download both programs [read this](R_download_data_importing.pdf).
 
 ## Learning How to Code in R
 
