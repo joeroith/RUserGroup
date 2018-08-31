@@ -1,14 +1,14 @@
-# Get help with RStudio
+# Welcome to the St. Kate's R User Group!
 
-Congratulations! You have decided to use the world’s most popular statistical analysis software, R! R is a free software and a very powerful tool. It can be used simply as a calculator or to analyze data sets with billions of observations. Here you will find information about getting started with R and the fancy user interface RStudio. Check out the files, tutorials, and links below to help you out.
+This is a community of faculty, staff, and students who are dedicated to furthering and sharing their knowledge of the statistical analysis software R. We are open to everyone at St. Kate's and encourage those who are curious about joining to email [Joe Roith](jmroith@stkate.edu). 
 
 ## Installing R and RStudio.
 
-We typically use RStudio to write and execute code since it is nicer looking. But you need to first download R in order for everything to work smoothly.
+If you are new to R, here are some links to get started.
 
-[Download R](https://www.r-project.org/)
+[Download R](https://www.r-project.org/). This is the software that performs all of the analysis and does the heavy lifting.
 
-[Download RStudio](https://www.rstudio.com/)
+[Download RStudio](https://www.rstudio.com/). This is a software that lets you use R in a much cleaner, more user friendly environment.
 
 
 > If you would like more help and instructions to download both programs [read this](R_download_data_importing.pdf).
