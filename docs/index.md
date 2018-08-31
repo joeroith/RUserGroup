@@ -13,32 +13,48 @@ If you are new to R, here are some links to get started.
 
 > If you would like more help and instructions to download both programs [read this](R_download_data_importing.pdf).
 
-## RStudio in Stat 1090
+## Learning How to Code in R
 
-These are some of the documents I have used in my Intro Stats classes. I expect my students to be able to perform this analysis in StatCrunch through MyStatLab, but not in RStudio. I give them an introduction to statistical coding and give them some basic tools. You may still see students ask about these techniques.
+R is a free and open software, which means there are thousands of tutorials, websites, blogs, discussion forums, examples, and packages to help you learn how to program in the best way possible for you. Here I have included some of the tutorials I created and use in my own intermediate and upper level courses. Be aware that this is a very traditional way to be introduced to programming. It goes down into the details of the language. If you would like something more interactive, check out the **Interactive Tutorials** below.
 
-1. [Basic R Code](BasicRcode.pdf)
-2. [Using R with the Normal Distribution](Rnormal.pdf)
-3. [Survey Data](responses.csv)
-4. [Survey Responses in RStudio](SurveyResponses.RData)
+0. [Introduction to R](IntroR1.pdf)
+1. [Tutorial 1](RTutorial_1.pdf)
+2. [Tutorial 2](RTutorial_2.pdf)
+3. [Tutorial 3](RTutorial_3.pdf)
 
-## Tutorials
-
-These are some tutorials that I have created for my more advanced classes. Feel free to look them over if you would like more technical information about R and RStudio.
-
-1. [Introduction to R](IntroR1.pdf)
-2. [Tutorial 1](RTutorial_1.pdf)
-3. [Tutorial 2](RTutorial_2.pdf)
-4. [Tutorial 3](RTutorial_3.pdf)
-
-## More Tutorials and Help
+## Interactive Tutorials
 
 I highly reccomend trying the [Swirl](http://swirlstats.com/) tutorial in RStudio to get hands-on practice.
-Also, consider Googling "How to _________ in R". There are tons of resources online with examples of code.
+Or taking the free introductory R programming course through [DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
+
+## More Helpful Resources
+### Web
+The website [Stack Overflow](https://stackoverflow.com/) is a great place to ask and answer R questions.
+[Cross Validated](https://stats.stackexchange.com/questions/tagged/r) is another good one.
+Also, consider Googling "How to _________ in R". Or viewing Youtube videos. There are tons of resources online with examples of code.
+
+### Textbooks
+*The R Book* by Michael Crawley is a classic resource.
+*R for Data Science* is a newer book written by Hadley Wickham, the Chief Scientist at RStudio. Even better is that you can get free online access [here](http://r4ds.had.co.nz/)
+
+### R
+Dont forget, R has its own help documentation in the software. It is not the easiest to read if you are new, so I recommend one of the above options first.
+
+## Cheat Sheats
+There are plenty of summary sheets available online for coding in R. It is not expected that you memorize *ALL* of the specific syntax rules. Note: Some of these cheat sheets use additional packages that need to be downloaded and installed.
+
+1. [Basic R Code](BasicRcode.pdf)
+2. [RStudio Environment Guide](rstudio-ide.pdf)
+3. [Some Syntax rules](syntax.pdf)
+4. [Higher Level Syntax](r-cheat-sheet-3.pdf)
+5. [Data Wrangling](data-wrangling-cheatsheet.pdf)
+6. [Data Visualization](data-visualization-2.1.pdf)
+7. [Data Visualization using ggplot2](ggplot2-cheatsheet.pdf)
+8. [R Markdown Reference](rmarkdown-reference.pdf)
+9. [R Markdown Cheat Sheet](rmarkdown-cheatsheet.pdf)
 
 Contact me if you have any questions. jmroith@stkate.edu
 
-
-### Have fun with RStudio!!
+### Have fun with R/RStudio!!
 ![WoHoo!](kermit_statistics.gif)
 
