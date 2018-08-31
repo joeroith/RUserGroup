@@ -3,7 +3,7 @@
 This is a community of faculty, staff, and students who are dedicated to furthering and sharing their knowledge of the statistical analysis software R. We are open to everyone at St. Kate's and encourage those who are curious about joining to email Joe Roith, jmroith@stkate.edu. 
 
 ## First Meeting, Sep. 4, 2018
-Follow along with the slides [online](FirstMeeting_Slides_nopic.pdf) or [download](FirstMeeting_Slides_nopic.pptx).
+Follow along with the [slides](FirstMeeting_Slides_nopic.pdf).
 
 Access the shared [Google Sheets](https://docs.google.com/spreadsheets/d/1glhHiEzilOTQh67K1AYSpnYUlt3S4_30zVeJwCsNJ9s/edit?usp=sharing) file.
 
