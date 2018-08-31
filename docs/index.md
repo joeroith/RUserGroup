@@ -41,7 +41,8 @@ Also, consider Googling "How to _________ in R". Or viewing Youtube videos. Ther
 Dont forget, R has its own help documentation in the software. It is not the easiest to read if you are new, so I recommend one of the above options first.
 
 ## Cheat Sheats
-There are plenty of summary sheets available online for coding in R. It is not expected that you memorize *ALL* of the specific syntax rules. Note: Some of these cheat sheets use additional packages that need to be downloaded and installed.
+There are plenty of summary sheets available online for coding in R. It is not expected that you memorize *ALL* of the specific syntax rules. 
+> Note: Some of these cheat sheets use additional packages that need to be downloaded and installed.
 
 1. [Basic R Code](BasicRcode.pdf)
 2. [RStudio Environment Guide](rstudio-ide.pdf)
